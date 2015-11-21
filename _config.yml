@@ -1,0 +1,28 @@
+name: The Glamourista
+favicon: null
+layout_spectrum: 0.20126908854581416
+typography_spectrum: 0.07987319002859294
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07162205316126347
+  lightness: 0.7517603179439902
+  saturation: 0.45739413099363446
+  rhythmicContrast: 0.07723704818636179
+purpose: []
