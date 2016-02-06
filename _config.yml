@@ -1,7 +1,7 @@
 name: The Glamourista
 favicon: null
-layout_spectrum: 0.20126908854581416
-typography_spectrum: 0.07987319002859294
+layout_spectrum: 0
+typography_spectrum: 0.60836
 title: The Glamourista
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.875
+  brandStrength: 0.8125
   lightness: 0.7517603179439902
   saturation: 0.75
-  rhythmicContrast: 0.07723704818636179
+  rhythmicContrast: 0.25
 purpose: []
